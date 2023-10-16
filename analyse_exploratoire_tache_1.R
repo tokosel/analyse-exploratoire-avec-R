@@ -1,6 +1,4 @@
-# Tache 1
-
-#Importation et chargement des données
+# Tache 1 : Importation et chargement des données
 url = 'https://github.com/JosueAfouda/Credit-Risk-Modeling/raw/master/data_credit.txt'
 
 df <- read.csv(url)
